@@ -1,5 +1,5 @@
 # leetcode-solution
-Provide all my solutions for problems on Leetcode (by Python)
+Provide all my solutions for problems on LeetCode (by Python)
 
 |#    |Solution            |Submitted Code  |Difficulty |
 |---  |---                 |---             |---        |
