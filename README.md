@@ -15,3 +15,4 @@ Provide all my solutions for problems on LeetCode (by Python)
 |611|Valid Triangle Number|[triangleNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidTriangleNumber/triangleNumber.py)|Medium|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
+|932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
