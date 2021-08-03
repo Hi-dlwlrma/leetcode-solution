@@ -15,6 +15,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |338|Counting Bits|[countBits.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountingBits/countBits.py)|Easy|
 |383|Ransom Note|[canConstruct.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RansomNote/canConstruct.py)|Easy|
 |401|Binary Watch|[readBinaryWatch.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BinaryWatch/readBinaryWatch.py)|Easy|
+|405|Convert a Number to Hexadecimal|[toHex.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ConvertaNumbertoHexadecimal/toHex.py)|Easy|
 |542|01 Matrix|[updateMatrix.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/01Matrix/updateMatrix.py)|Medium|
 |611|Valid Triangle Number|[triangleNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidTriangleNumber/triangleNumber.py)|Medium|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
