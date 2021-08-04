@@ -8,6 +8,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |6|Zigzag Conversion|[convert.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ZigZagConversion/convert.py)|Medium|
 |13|Roman to Integer|[romanToInt.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RomantoInteger/romanToInt.py)|Easy|
 |18|4Sum|[fourSum.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/4Sum/fourSum.py)|Medium|
+|90|Subsets II|[subsetsWithDup.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/SubsetsII/subsetsWithDup.py)|Medium|
 |121|Best Time to Buy and Sell Stock|[maxProfit.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BestTimetoBuyandSellStock/maxProfit.py)|Easy|
 |122|Best Time to Buy and Sell Stock II|[maxProfit.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BestTimetoBuyandSellStockII/maxProfit.py)|Easy|
 |179|Largest Number|[largestNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LargestNumber/largestNumber.py)|Medium|
