@@ -23,3 +23,4 @@ Provide all my solutions for problems on LeetCode (by Python)
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
 |932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
+|954|Array of Doubled Pairs|[canReorderDoubled.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ArrayofDoubledPairs/canReorderDoubled.py)|Medium|
