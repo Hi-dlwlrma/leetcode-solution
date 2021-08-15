@@ -20,6 +20,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |441|Arranging Coins|[arrangeCoins.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ArrangingCoins/arrangeCoins.py)|Easy|
 |520|Detect Capital|[detectCapitalUse.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/DetectCapital/detectCapitalUse.py)|Easy|
 |542|01 Matrix|[updateMatrix.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/01Matrix/updateMatrix.py)|Medium|
+|566|Reshape the Matrix|[matrixReshape.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ReshapetheMatrix/matrixReshape.py)|Easy|
 |611|Valid Triangle Number|[triangleNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidTriangleNumber/triangleNumber.py)|Medium|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
