@@ -22,6 +22,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |542|01 Matrix|[updateMatrix.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/01Matrix/updateMatrix.py)|Medium|
 |566|Reshape the Matrix|[matrixReshape.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ReshapetheMatrix/matrixReshape.py)|Easy|
 |611|Valid Triangle Number|[triangleNumber.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ValidTriangleNumber/triangleNumber.py)|Medium|
+|696|Count Binary Substrings|[countBinarySubstrings.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountBinarySubstrings/countBinarySubstrings.py)|Easy|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
 |932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
