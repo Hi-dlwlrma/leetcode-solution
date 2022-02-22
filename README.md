@@ -26,6 +26,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |696|Count Binary Substrings|[countBinarySubstrings.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/CountBinarySubstrings/countBinarySubstrings.py)|Easy|
 |746|Min Cost Climbing Stairs|[minCostClimbingStairs.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/MinCostClimbingStairs/minCostClimbingStairs.py)|Easy|
 |796|Rotate String|[rotateString.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RotateString/rotateString.py)|Easy|
+|812|Largest Triangle Area[largestTriangleArea.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LargestTriangleArea/largestTriangleArea.py)|Easy|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
 |932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
