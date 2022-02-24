@@ -28,6 +28,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |796|Rotate String|[rotateString.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RotateString/rotateString.py)|Easy|
 |812|Largest Triangle Area|[largestTriangleArea.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/LargestTriangleArea/largestTriangleArea.py)|Easy|
 |819|Most Common Word|[mostCommonWord.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/MostCommonWord/mostCommonWord.py)|Easy|
+|821|Shortest Distance to a Character|[shortestToChar.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ShortestDistanceToACharacter/shortestToChar.py)|Easy|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
 |932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
