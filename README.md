@@ -33,6 +33,7 @@ Provide all my solutions for problems on LeetCode (by Python)
 |832|Flipping an Image|[flipAndInvertImage.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/FlippingAnImage/flipAndInvertImage.py)|Easy|
 |836|Rectangle Overlap|[isRectangleOverlap.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/RectangleOverlap/isRectangleOverlap.py)|Easy|
 |838|Push Dominoes|[pushDominoes.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PushDominoes/pushDominoes.py)|Medium|
+|852|Peak Index in a Mountain Array|[peakIndexInMountainArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PeakIndexInAMountainArray/peakIndexInMountainArray.py)|Easy|
 |915|Partition Array into Disjoint Intervals|[partitionDisjoint.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/PartitionArrayintoDisjointIntervals/partitionDisjoint.py)|Medium|
 |932|Beautiful Array|[beautifulArray.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/BeautifulArray/beautifulArray.py)|Medium|
 |954|Array of Doubled Pairs|[canReorderDoubled.py](https://github.com/Hi-dlwlrma/leetcode-solution/blob/main/solutions/python/ArrayofDoubledPairs/canReorderDoubled.py)|Medium|
